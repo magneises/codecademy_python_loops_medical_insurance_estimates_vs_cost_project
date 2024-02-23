@@ -1,0 +1,2 @@
+# codecademy_python_loops_medical_insurance_estimates_vs_cost_project
+Business Intelligence Data Analyst Career Path - Python Loops: Medica Insurance Estimates vs. Costs Project. You are interested in analyzing medical insurance cost data efficiently without writing repetitive code. In this project, you will use your new knowledge of python loops to iterate through and analyze medical insurance cost data. 
